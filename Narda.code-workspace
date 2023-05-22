@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\RABOCIY STOL\\Narda"
+	},
+	{
+		"path": "..\\..\\..\\RABOCIY STOL\\Narda 2-1"
+	}
+],
+  "settings": {
+    "liveServer.settings.port": 5501,
+    "liveServer.settings.multiRootWorkspaceName": "Narda"
+  }
+}
